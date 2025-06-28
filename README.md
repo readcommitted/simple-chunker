@@ -17,9 +17,9 @@ This tool processes a PDF document, splits the text into manageable chunks, gene
 
 Create a `.env` file in your project root with the following:
 
-PINECONE_INDEX=your-index
-PINECONE_NAMESPACE=default
-PINECONE_API_KEY=your-pinecone-api-key
+PINECONE_INDEX=your-index \
+PINECONE_NAMESPACE=default \
+PINECONE_API_KEY=your-pinecone-api-key \
 OPENAI_API_KEY=your-openai-api-key
 
 ## 🧩 Chunking Considerations
