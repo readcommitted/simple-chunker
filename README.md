@@ -62,9 +62,9 @@ Effective chunking is essential for building reliable search or retrieval-augmen
 
 ---
 
-### ⚡ Next Steps
+## ⚡ Next Steps
 
-### ⚡ Next Steps for Advanced Implementations
+### Next Steps for Advanced Implementations
 
 - ✅ Swap in a true tokenizer for accurate token-based chunking (e.g., [`tiktoken`](https://github.com/openai/tiktoken))  
 - ✅ Explore dynamic chunking based on natural boundaries (sentences, paragraphs, headings) for improved semantic coherence  
